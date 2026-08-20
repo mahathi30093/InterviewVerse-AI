@@ -123,4 +123,6 @@ Colleges can use the system to identify student skill gaps before placement driv
 
 ## Current Phase Status
 
-Review 1 — in progress
+Review 1 - Completed
+
+Review 2 - In progress
