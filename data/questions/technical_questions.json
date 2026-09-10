@@ -1,0 +1,119 @@
+[
+  {
+    "id": "tech_1",
+    "category": "Technical",
+    "topic": "Python",
+    "difficulty": "EASY",
+    "job_role": "Python Developer",
+    "question": "Explain the difference between mutable and immutable data types in Python, giving two examples of each.",
+    "expected_concepts": ["Mutability", "Tuples vs Lists", "Memory reference", "id() function"]
+  },
+  {
+    "id": "tech_2",
+    "category": "Technical",
+    "topic": "Python",
+    "difficulty": "MEDIUM",
+    "job_role": "Python Developer",
+    "question": "How do Python generators work under the hood, and what are the memory performance advantages of the 'yield' keyword over returning a list?",
+    "expected_concepts": ["Generators", "Iterators", "Lazy evaluation", "Memory efficiency", "yield vs return"]
+  },
+  {
+    "id": "tech_3",
+    "category": "Technical",
+    "topic": "Python",
+    "difficulty": "HARD",
+    "job_role": "Python Developer",
+    "question": "Explain Python's Global Interpreter Lock (GIL). How does it affect multi-threaded CPU-bound programs versus I/O-bound programs, and how can you bypass its limitations?",
+    "expected_concepts": ["GIL", "Multiprocessing vs Multithreading", "asyncio", "C-extensions", "CPU vs I/O bounds"]
+  },
+  {
+    "id": "tech_4",
+    "category": "Technical",
+    "topic": "Java",
+    "difficulty": "EASY",
+    "job_role": "Java Developer",
+    "question": "What is the difference between '==' and the '.equals()' method in Java?",
+    "expected_concepts": ["Reference comparison vs Value equality", "Object class", "String pool", "Overriding equals and hashCode"]
+  },
+  {
+    "id": "tech_5",
+    "category": "Technical",
+    "topic": "Java",
+    "difficulty": "MEDIUM",
+    "job_role": "Java Developer",
+    "question": "Explain how HashMap works internally in Java 8+, including collision resolution, hashing, and bucketing with TreeNodes.",
+    "expected_concepts": ["HashMap internals", "Hash code & modulo", "Separate chaining", "Red-Black tree conversion at TREEIFY_THRESHOLD"]
+  },
+  {
+    "id": "tech_6",
+    "category": "Technical",
+    "topic": "Java",
+    "difficulty": "HARD",
+    "job_role": "Java Developer",
+    "question": "How does the Java Memory Model (JMM) define visibility and ordering guarantees? Explain the volatile keyword and happens-before relationships.",
+    "expected_concepts": ["JMM", "CPU cache coherency", "volatile keyword", "Happens-before guarantee", "Memory barriers"]
+  },
+  {
+    "id": "tech_7",
+    "category": "Technical",
+    "topic": "Data Structures",
+    "difficulty": "EASY",
+    "job_role": "Software Developer",
+    "question": "Compare the time complexity of searching, insertion, and deletion operations between an Array and a Linked List.",
+    "expected_concepts": ["Arrays vs Linked Lists", "O(1) vs O(N) access", "Memory layout", "Dynamic resizing"]
+  },
+  {
+    "id": "tech_8",
+    "category": "Technical",
+    "topic": "Algorithms",
+    "difficulty": "MEDIUM",
+    "job_role": "Software Developer",
+    "question": "Explain the divide-and-conquer paradigm using QuickSort or MergeSort. What are the average and worst-case time and space complexities?",
+    "expected_concepts": ["Divide and Conquer", "QuickSort partitioning", "MergeSort recursion", "O(N log N)", "Worst-case scenarios"]
+  },
+  {
+    "id": "tech_9",
+    "category": "Technical",
+    "topic": "DBMS",
+    "difficulty": "MEDIUM",
+    "job_role": "Software Developer",
+    "question": "What are ACID properties in database management systems? Explain how transaction isolation levels mitigate dirty reads and phantom reads.",
+    "expected_concepts": ["Atomicity, Consistency, Isolation, Durability", "Read Uncommitted, Read Committed, Repeatable Read, Serializable", "Locking and MVCC"]
+  },
+  {
+    "id": "tech_10",
+    "category": "Technical",
+    "topic": "SQL",
+    "difficulty": "EASY",
+    "job_role": "Data Analyst",
+    "question": "What is the difference between WHERE and HAVING clauses in SQL, and when must you use HAVING?",
+    "expected_concepts": ["Row filtering vs Group aggregate filtering", "GROUP BY", "Aggregate functions like COUNT, SUM, AVG"]
+  },
+  {
+    "id": "tech_11",
+    "category": "Technical",
+    "topic": "Machine Learning",
+    "difficulty": "MEDIUM",
+    "job_role": "Machine Learning Engineer",
+    "question": "Explain the Bias-Variance tradeoff. What techniques do you use to detect and prevent overfitting in neural networks and tree models?",
+    "expected_concepts": ["Underfitting vs Overfitting", "Regularization (L1/L2)", "Dropout", "Cross-validation", "Pruning"]
+  },
+  {
+    "id": "tech_12",
+    "category": "Technical",
+    "topic": "Web Development",
+    "difficulty": "EASY",
+    "job_role": "Web Developer",
+    "question": "What is the Document Object Model (DOM), and how does the Virtual DOM in modern frameworks like React optimize rendering?",
+    "expected_concepts": ["Real DOM vs Virtual DOM", "Diffing algorithm", "Reconciliation", "Batching updates"]
+  },
+  {
+    "id": "tech_13",
+    "category": "Technical",
+    "topic": "Web Development",
+    "difficulty": "HARD",
+    "job_role": "Web Developer",
+    "question": "Explain the browser Event Loop, including the Call Stack, Web APIs, Microtask Queue (Promises), and Macrotask Queue (setTimeout).",
+    "expected_concepts": ["Event loop", "Call stack", "Microtasks vs Macrotasks", "Single-threaded execution", "Promise resolution order"]
+  }
+]

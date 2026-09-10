@@ -1,0 +1,92 @@
+[
+  {
+    "id": "prob_1",
+    "category": "Problem Solving",
+    "topic": "Algorithms",
+    "difficulty": "EASY",
+    "job_role": "Software Developer",
+    "question": "Given an array of integers and a target sum, describe how you would find two numbers that add up to the target in O(N) time complexity.",
+    "expected_concepts": ["Two Sum", "Hash Map lookup", "O(N) time vs O(N^2) brute force", "Space-time tradeoff"]
+  },
+  {
+    "id": "prob_2",
+    "category": "Problem Solving",
+    "topic": "Data Structures",
+    "difficulty": "EASY",
+    "job_role": "Software Developer",
+    "question": "How would you detect whether a singly linked list contains a cycle without using extra memory?",
+    "expected_concepts": ["Floyd's Tortoise and Hare algorithm", "Slow and fast pointers", "O(1) auxiliary space"]
+  },
+  {
+    "id": "prob_3",
+    "category": "Problem Solving",
+    "topic": "System Design",
+    "difficulty": "MEDIUM",
+    "job_role": "Software Developer",
+    "question": "How would you design a URL shortening service (like Bitly)? Describe the database schema, unique hash/base62 ID generation, and caching strategy.",
+    "expected_concepts": ["Base62 encoding", "MD5/SHA256 vs Auto-increment counter", "Redis caching", "Database indexing", "Scalability"]
+  },
+  {
+    "id": "prob_4",
+    "category": "Problem Solving",
+    "topic": "Concurrency",
+    "difficulty": "MEDIUM",
+    "job_role": "Java Developer",
+    "question": "Describe how to solve the classic Producer-Consumer problem safely in a multithreaded environment. How do you prevent race conditions and deadlocks?",
+    "expected_concepts": ["BlockingQueue", "Mutex/Locks", "Condition variables", "wait() and notifyAll()", "Bounded buffer"]
+  },
+  {
+    "id": "prob_5",
+    "category": "Problem Solving",
+    "topic": "Data Structures",
+    "difficulty": "HARD",
+    "job_role": "Software Developer",
+    "question": "Design an LRU (Least Recently Used) Cache that supports get() and put() operations in O(1) time complexity.",
+    "expected_concepts": ["Doubly Linked List", "Hash Map", "O(1) removal and insertion", "Eviction policy", "Capacity handling"]
+  },
+  {
+    "id": "prob_6",
+    "category": "Problem Solving",
+    "topic": "Distributed Systems",
+    "difficulty": "HARD",
+    "job_role": "Software Developer",
+    "question": "Your distributed system is experiencing sudden database connection exhaustion during peak traffic flash sales. How do you debug, isolate, and architecturally prevent this issue?",
+    "expected_concepts": ["Connection pooling", "Circuit breaker", "Read replicas", "Queue-based load leveling (Kafka/RabbitMQ)", "Rate limiting"]
+  },
+  {
+    "id": "prob_7",
+    "category": "Problem Solving",
+    "topic": "Data Analytics",
+    "difficulty": "MEDIUM",
+    "job_role": "Data Analyst",
+    "question": "You discover that 25% of user session records have missing or inconsistent timestamp values in a historical clickstream dataset. How would you diagnose the cause and clean the data for executive reporting?",
+    "expected_concepts": ["Data imputation", "Root cause investigation", "Timezone normalization", "Data auditing", "Handling nulls"]
+  },
+  {
+    "id": "prob_8",
+    "category": "Problem Solving",
+    "topic": "Machine Learning",
+    "difficulty": "HARD",
+    "job_role": "Machine Learning Engineer",
+    "question": "In a real-time fraud detection model, you notice severe class imbalance (0.01% fraud cases) and concept drift over time. How would you architect the training and retraining pipeline?",
+    "expected_concepts": ["SMOTE / Under-sampling", "F1/PR-AUC metric vs Accuracy", "Drift detection (KS test/PSI)", "Online learning / Periodic shadow deployment"]
+  },
+  {
+    "id": "prob_9",
+    "category": "Problem Solving",
+    "topic": "Algorithms",
+    "difficulty": "MEDIUM",
+    "job_role": "Python Developer",
+    "question": "How would you find the median of an infinite stream of real-time numbers using an optimal data structure approach?",
+    "expected_concepts": ["Dual Heaps (Max-Heap and Min-Heap)", "O(log N) insertion", "O(1) median retrieval", "Balancing heap sizes"]
+  },
+  {
+    "id": "prob_10",
+    "category": "Problem Solving",
+    "topic": "Web Optimization",
+    "difficulty": "EASY",
+    "job_role": "Web Developer",
+    "question": "A web application's initial bundle size is 12MB, causing a 6-second First Contentful Paint. How do you analyze and optimize the application to load under 1.5 seconds?",
+    "expected_concepts": ["Code splitting / Lazy loading", "Tree shaking", "Asset compression (Brotli/Gzip)", "CDN caching", "Image optimization (WebP)"]
+  }
+]

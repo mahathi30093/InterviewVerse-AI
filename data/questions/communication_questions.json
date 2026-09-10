@@ -1,0 +1,92 @@
+[
+  {
+    "id": "comm_1",
+    "category": "Communication",
+    "topic": "Stakeholder Communication",
+    "difficulty": "EASY",
+    "job_role": "Software Developer",
+    "question": "How do you explain the concept of technical debt and its long-term cost to a non-technical product manager who wants only new features?",
+    "expected_concepts": ["Financial analogy (interest on debt)", "System stability & feature velocity", "Empathy & active listening", "Data-backed trade-offs"]
+  },
+  {
+    "id": "comm_2",
+    "category": "Communication",
+    "topic": "Technical Documentation",
+    "difficulty": "EASY",
+    "job_role": "Software Developer",
+    "question": "What principles do you follow when writing API documentation or README files so that new team members can onboard rapidly?",
+    "expected_concepts": ["Clarity and brevity", "Code examples & cURL snippets", "Error code explanations", "Prerequisites & environment setup"]
+  },
+  {
+    "id": "comm_3",
+    "category": "Communication",
+    "topic": "Code Review & Feedback",
+    "difficulty": "MEDIUM",
+    "job_role": "Software Developer",
+    "question": "You disagree with a senior engineer's architectural choice during a pull request review. How do you articulate your constructive critique respectfully and effectively?",
+    "expected_concepts": ["Focus on code not person", "Provide benchmarks or objective rationale", "Ask open-ended questions", "Offer alternatives"]
+  },
+  {
+    "id": "comm_4",
+    "category": "Communication",
+    "topic": "Incident Communication",
+    "difficulty": "MEDIUM",
+    "job_role": "Software Developer",
+    "question": "A production bug caused data corruption for 500 customers. How do you structure the post-incident communication to affected clients and executives?",
+    "expected_concepts": ["Transparency", "Timeline and root cause", "Immediate mitigation", "Preventative actions", "No finger-pointing"]
+  },
+  {
+    "id": "comm_5",
+    "category": "Communication",
+    "topic": "Cross-functional Collaboration",
+    "difficulty": "MEDIUM",
+    "job_role": "Data Analyst",
+    "question": "How do you present data insights and statistical confidence intervals to marketing and sales teams who find numbers overwhelming?",
+    "expected_concepts": ["Storytelling with data", "Actionable executive summaries", "Visual charts instead of raw tables", "Focus on business KPI impact"]
+  },
+  {
+    "id": "comm_6",
+    "category": "Communication",
+    "topic": "Remote Collaboration",
+    "difficulty": "EASY",
+    "job_role": "Software Developer",
+    "question": "In an asynchronous remote team across multiple time zones, what strategies do you use to ensure team alignment and prevent bottlenecks?",
+    "expected_concepts": ["Clear asynchronous documentation", "Context-rich messages", "Defined response SLAs", "Video walk-throughs (Loom)"]
+  },
+  {
+    "id": "comm_7",
+    "category": "Communication",
+    "topic": "Requirements Gathering",
+    "difficulty": "HARD",
+    "job_role": "Machine Learning Engineer",
+    "question": "A client asks for an AI model that does 'everything automated with 100% accuracy'. How do you guide the conversation to define realistic metrics and project scope?",
+    "expected_concepts": ["Managing expectations", "Defining success metrics (Precision/Recall)", "Baseline comparisons", "Iterative milestone delivery"]
+  },
+  {
+    "id": "comm_8",
+    "category": "Communication",
+    "topic": "Mentorship",
+    "difficulty": "MEDIUM",
+    "job_role": "Software Developer",
+    "question": "A junior developer repeatedly struggles with the same debugging issue. How do you coach them without simply doing the work for them?",
+    "expected_concepts": ["Socratic method", "Teaching debugging methodologies", "Pair programming", "Fostering psychological safety"]
+  },
+  {
+    "id": "comm_9",
+    "category": "Communication",
+    "topic": "Negotiation",
+    "difficulty": "HARD",
+    "job_role": "Web Developer",
+    "question": "Designers want complex animations that will delay delivery by 3 weeks. How do you negotiate a phased implementation without demoralizing the design team?",
+    "expected_concepts": ["Phase 1 MVP vs Phase 2 enhancements", "Performance budget discussion", "Collaborative compromise", "Visual mockup trade-offs"]
+  },
+  {
+    "id": "comm_10",
+    "category": "Communication",
+    "topic": "Executive Presentation",
+    "difficulty": "HARD",
+    "job_role": "Software Developer",
+    "question": "You need a $50,000 budget approval from the VP of Engineering to migrate legacy servers to modern cloud infrastructure. How do you pitch the business case?",
+    "expected_concepts": ["ROI calculation", "Total cost of ownership", "Security/compliance risks of legacy", "Stepwise transition plan"]
+  }
+]

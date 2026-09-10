@@ -1,0 +1,92 @@
+[
+  {
+    "id": "beh_1",
+    "category": "Behavioral",
+    "topic": "Conflict Management",
+    "difficulty": "MEDIUM",
+    "job_role": "Software Developer",
+    "question": "Tell me about a time you had a strong disagreement with a teammate regarding a technical decision. How did you handle it and what was the outcome?",
+    "expected_concepts": ["STAR Method (Situation, Task, Action, Result)", "Empathy", "Data-driven resolution", "Commitment to team consensus"]
+  },
+  {
+    "id": "beh_2",
+    "category": "Behavioral",
+    "topic": "Failure and Resilience",
+    "difficulty": "EASY",
+    "job_role": "Software Developer",
+    "question": "Describe a project or task that did not go as planned. What mistakes were made, what did you learn, and how did you adapt for future projects?",
+    "expected_concepts": ["Accountability", "Constructive reflection", "Process improvement", "Humility"]
+  },
+  {
+    "id": "beh_3",
+    "category": "Behavioral",
+    "topic": "Adaptability & Learning",
+    "difficulty": "EASY",
+    "job_role": "Software Developer",
+    "question": "Tell me about a time when you had to learn a completely new framework, language, or domain on short notice to deliver a critical project.",
+    "expected_concepts": ["Fast learning strategy", "Documentation research", "Prototyping", "Delivering within deadlines"]
+  },
+  {
+    "id": "beh_4",
+    "category": "Behavioral",
+    "topic": "Leadership & Ownership",
+    "difficulty": "HARD",
+    "job_role": "Software Developer",
+    "question": "Describe a situation where a major project had unclear requirements, no designated lead, and looming deadlines. How did you step up to drive alignment and execution?",
+    "expected_concepts": ["Taking initiative", "Clarifying ambiguity", "Breaking down milestones", "Leading by example"]
+  },
+  {
+    "id": "beh_5",
+    "category": "Behavioral",
+    "topic": "Pressure Management",
+    "difficulty": "MEDIUM",
+    "job_role": "Software Developer",
+    "question": "Describe a high-pressure situation where multiple critical bugs landed in production simultaneously. How did you prioritize tasks and stay composed?",
+    "expected_concepts": ["Triage and prioritization", "Root cause containment", "Calm communication", "Post-mortem analysis"]
+  },
+  {
+    "id": "beh_6",
+    "category": "Behavioral",
+    "topic": "Teamwork & Inclusion",
+    "difficulty": "EASY",
+    "job_role": "Python Developer",
+    "question": "Tell me about a time you worked with someone whose working style or background was completely different from yours. How did you build a successful working relationship?",
+    "expected_concepts": ["Respect for diversity", "Active listening", "Adapting communication style", "Shared goals"]
+  },
+  {
+    "id": "beh_7",
+    "category": "Behavioral",
+    "topic": "Ethics & Integrity",
+    "difficulty": "HARD",
+    "job_role": "Data Analyst",
+    "question": "Have you ever faced pressure to manipulate data, cut safety corners, or ignore ethical boundaries to meet a company target? How did you respond?",
+    "expected_concepts": ["Professional integrity", "Standing firm on ethics", "Providing transparent data", "Escalating constructively"]
+  },
+  {
+    "id": "beh_8",
+    "category": "Behavioral",
+    "topic": "Prioritization",
+    "difficulty": "MEDIUM",
+    "job_role": "Web Developer",
+    "question": "How do you handle having 3 high-priority tasks assigned to you by different managers with the same deadline?",
+    "expected_concepts": ["Eisenhower matrix", "Proactive transparency", "Renegotiating deadlines", "Alignment on business value"]
+  },
+  {
+    "id": "beh_9",
+    "category": "Behavioral",
+    "topic": "Innovation",
+    "difficulty": "MEDIUM",
+    "job_role": "Machine Learning Engineer",
+    "question": "Describe an instance where you identified an inefficiency in an existing process and proposed an innovative solution that improved team productivity.",
+    "expected_concepts": ["Identifying bottlenecks", "Proof-of-concept creation", "Persuading team", "Measuring productivity gains"]
+  },
+  {
+    "id": "beh_10",
+    "category": "Behavioral",
+    "topic": "Customer Empathy",
+    "difficulty": "EASY",
+    "job_role": "Software Developer",
+    "question": "Tell me about a time you received harsh negative feedback from end-users regarding a feature you built. How did you process it and turn it into an improvement?",
+    "expected_concepts": ["Non-defensive mindset", "User empathy", "Iterative UX/UI improvement", "Validating fixes with users"]
+  }
+]
