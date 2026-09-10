@@ -1,0 +1,10 @@
+[
+  "ai-service/tests/test_agents.py::test_adaptive_difficulty_rules",
+  "ai-service/tests/test_agents.py::test_career_readiness_formula",
+  "ai-service/tests/test_agents.py::test_evaluation_agent",
+  "ai-service/tests/test_agents.py::test_skill_and_career_agents",
+  "ai-service/tests/test_api.py::test_analyze_answer_api",
+  "ai-service/tests/test_api.py::test_career_readiness_api",
+  "ai-service/tests/test_api.py::test_generate_question_api",
+  "ai-service/tests/test_api.py::test_health_endpoint"
+]
